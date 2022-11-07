@@ -50,3 +50,27 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+src/UI/SampleApp/SampleApp/bin/
+
+src/UI/SampleApp/SampleApp/obj/
+
+src/UI/SampleApp/SampleApp (Package)/bin/
+
+src/UI/SampleApp/SampleApp (Package)/obj/
+
+src/WinUISample.Applicationz/bin/
+
+src/WinUISample.Applicationz/obj/
+
+src/WinUISample.Domain/bin/
+
+src/WinUISample.Domain/obj/
+
+src/WinUISample.Infrastructure/bin/
+
+src/WinUISample.Infrastructure/obj/
+
+WinUISample.Domain/obj/
+
+.vs/
