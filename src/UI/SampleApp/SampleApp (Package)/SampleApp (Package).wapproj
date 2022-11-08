@@ -38,7 +38,7 @@
 		<ProjectGuid>e0e602e4-de71-46fb-bfe3-f64b8e5198d4</ProjectGuid>
 		<TargetPlatformVersion>10.0.19041.0</TargetPlatformVersion>
 		<TargetPlatformMinVersion>10.0.19041.0</TargetPlatformMinVersion>
-		<AssetTargetFallback>net6.0-windows$(TargetPlatformVersion);$(AssetTargetFallback)</AssetTargetFallback>
+		<AssetTargetFallback>net7.0-windows$(TargetPlatformVersion);$(AssetTargetFallback)</AssetTargetFallback>
 		<DefaultLanguage>en-US</DefaultLanguage>
 		<AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
 		<EntryPointProjectUniqueName>..\SampleApp\SampleApp.csproj</EntryPointProjectUniqueName>
